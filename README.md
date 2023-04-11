@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kv-crosstech
 - 👀 I’m interested in Machine learning and Data Science
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on any project that suits my interests
 - 📫 How to reach me. Just create an Issue here and I will reach out to you
 
